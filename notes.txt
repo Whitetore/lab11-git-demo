@@ -1,0 +1,10 @@
+My anme is Aktore. 
+New LAB again.
+Summary:
+- different summary from main branch
+- trying merge now
+
+Insights:
+- merging combines changes from two branches
+
+
