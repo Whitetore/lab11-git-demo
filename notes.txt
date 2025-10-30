@@ -1,0 +1,6 @@
+My anme is Aktore. 
+New LAB again.
+Summary:
+- I am learning how to se this
+- using VS Code with Github
+
